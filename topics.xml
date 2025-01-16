@@ -1,47 +1,178 @@
 <topics>
-  <topic>
-    <id></id>
-    <results>
-      <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
-      </result>
-      <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
-      </result>
-    </results>
-  </topic>
-  <topic>
-    <id></id>
-    <results>
-      <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
-      </result>
-      <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
-      </result>
-    </results>
-  </topic>
-  <topic>
-    <id></id>
-    <results>
-      <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
-      </result>
-      <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
-      </result>
-    </results>
-  </topic>
+    <topic>
+        <id>https://guides.loc.gov/chronicling-america-asylums</id>
+        <results>
+            <result>
+                <id>https://www.loc.gov/resource/sn93067790/1872-02-14/ed-1/?sp=2&amp;q=Asylum+Lunatic</id>
+                <rel>1</rel>
+                <text>
+                    I make these extracts to show the penurious plan upon which our insane are provided for, and how insignificant the sum now asked from the State for the support of our Asylum for the current year, when compared with the cost of other similar institutions, as well as to show the littleness of soul of those immaculate lawmakers and patterns of official economy, who are opposed to giving to the insane that aid which humanity demands, and which the honor of the State cannot afford to withhold.
+                </text>
+            </result>
+            <result>
+                <id>https://www.loc.gov/resource/sn87076917/1888-06-22/ed-1/?sp=4&amp;q=asylum+lunatic+women</id>
+                <rel>1</rel>
+                <text>
+                    Lizzie Shay, who attempted suicide at the station house, was brought before Probate Judge Miller last evening and adjudged insane. She will be sent to the Dayton asylum. Her insanity is not violent, but she manifests a constant disposition to run away.
+
+                    It commonly surprises visitors to a lunatic asylum to find that insane people are not for a moment deceived by the delusions of their fellow patients. Each will think himself perfectly sane while knowing that all the others are hopelessly mad. Although a lunatic's mental freedom may be destroyed, it does not follow that his consciousness is abolished.
+
+                    It is a novel experience to attend a religious service at an insane asylum. Imagine a congregation of lunatics and imbeciles, men on one side, women on the other, in all stages of physical decay and all degrees of madness. Interspersed throughout this motley crowd are refined and cultivated women who, in their lucid intervals, are as pure and spiritual-minded as angels, yet are like the devil incarnate when the mania seizes them.
+                </text>
+            </result>
+            <result>
+                <id>https://www.loc.gov/resource/sn83030193/1888-07-30/ed-2/?sp=1&amp;q=asylum+ASYLUM+Asylum+death+DEATH</id>
+                <rel>1</rel>
+                <text>
+                    Coroner Levy was notified this morning of a mysterious death in the City Asylum for the Insane on Ward's Island, which it is claimed is the result of foul play by the keepers.
+
+                    Willis was attacked with the persecution mania and was taken to the Middletown Insane Asylum, but was subsequently removed to the Amityville asylum. There a complaint was made against him, and he was removed to his home.
+
+                    He complained to her of the brutal treatment he received at the hands of the attendants and exhibited to her several bruises. She returned to her home very much broken down.
+
+                    On Saturday morning Mrs. Willis received a letter from the authorities of the Ward's Island Asylum stating that her husband had died at the institution on Friday.
+                </text>
+            </result>
+            <result>
+                <id>https://www.loc.gov/resource/sn85066387/1900-10-06/ed-1/?sp=1&amp;q=Feeble+Feeble-minded+minded</id>
+                <rel>1</rel>
+                <text>
+                    The child is plainly insane. He cannot be classed among the simple-minded. The difference between a simple-minded person and an insane person is plain. Simple-minded patients, who come within the three degrees named—idiots, imbeciles, and cretins—are usually congenitally so. Insanity, in the strict sense of the term, is usually acquired through injury or abuse of nature. These latter conditions are manifested by this baby patient.
+
+                    The asylum for the insane is plainly the place for him. His mania is to destroy, to kill, and to maim himself. Though there is no doubt that the Home for the Feeble-minded is better fitted for the care of such youngsters, in my opinion, the only safe place to keep him is in the asylum. His mania at any moment might cause him to seek gratification among the helpless inmates of the Home for the Feeble-minded.
+
+                    There is no doubt that he will be a source of endless worry to the management of the Napa Asylum, and I fear that the trouble he will cause may result in a demand being made that he be discharged from that institution and committed to the Home for the Feeble-minded.
+                </text>
+            </result>
+            <result>
+                <id>https://www.loc.gov/resource/sn99066033/1901-12-14/ed-1/?sp=1&amp;q=asylum</id>
+                <rel>1</rel>
+                <text>
+                    Under the administration of Superintendent J. L. Greene, many innovations have been brought about. Chief among them is the patient treatment of the unfortunate by the attendants. One cross remark addressed to a patient by a nurse brings a reprimand; for the second offense, the penalty is dismissal. No matter how fretful or trying an inmate may be, the attendant in charge must be cheerful, firm, and kind. Foibles and pet fancies of the sufferers must be scrupulously regarded. Anger or loss of temper by the employees makes the patients fretful and cross as well as dissatisfied. For this reason, Dr. Greene has insisted on kind treatment under all circumstances.
+
+                    At present, the attendants, both male and female, are required to study their patients closely and are given a course of instruction by Superintendent Greene, in addition to the advice they receive from their superiors. Inexperienced help, afterwards properly drilled, is preferred, and faithfulness and ability will lead to their retention.
+
+                    At the Lincoln asylum, there are six wards for men and six for women. In addition, there is an infirmary or hospital for the sick or ailing of each sex, besides a separate ward for the incurables.
+
+                    In the basement of the new wing is the dining room where the women eat. At the tap of the bell, they fall in line and march to the tables. They remain standing until the second ringing of the bell. Then supper begins. Wholesome food, well-cooked, unlimited in quantity, is furnished to all. Milk toast and beef tea is always at hand to tempt the appetites of the delicate. The attendants watch the patients closely and urge them to eat. When the meal is finished, the knives and forks are counted to make sure that none are carried away. When this is done, the patients are marched back to the parlors.
+                </text>
+            </result>
+            <result>
+                <id>https://www.loc.gov/resource/sn84026749/1906-05-05/ed-1/?sp=1&amp;q=ABUSE+ASYLUM</id>
+                <rel>1</rel>
+                <text>
+                    Mr. Burroughs claimed that he saw an employee of the laundry strike patients with his fist, beat them with towels and pillowcases on the head, and then put them through the wringing-out process.
+
+                    Herbert Spencer testified under oath that he saw patients strapped to beds in Howard Hall, the sleeping apartments of the hospital. He saw them placed in straitjackets and handcuffed, and said that patients often cried out in pain when strapped to beds in positions that prevented movement.
+
+                    T. L. McMurray, employed in the laundry for four and a half years, stated under oath that he saw employees knock patients down, choke them, and otherwise mistreat them. He said he saw Foreman Maenche drunk on several occasions, unfit for the performance of his duties.
+
+                    The "wringing-out process" and the "pushing car method" of punishment were frequently used by employees, including Silllard Sidney and De Sales Lyons.
+                </text>
+            </result>
+            <result>
+                <id>https://www.loc.gov/resource/sn83025661/1840-11-18/ed-1/?sp=1&amp;q=asylum+lunatic</id>
+                <rel>1</rel>
+                <text>
+                    Since the erection of the new building, we have not rejected any patient, however discouraging might be the disease of his body or hopeless the state of his mind. This policy reflects the asylum's commitment to serving all individuals in need of care.
+
+                    In our medical and moral treatment, we have pursued the same mild and firm course, which has resulted in the restoration to health and reason of so many of our inmates. We believe that kindness, combined with consistent firmness, is the most effective approach to treating mental disorders. Among other means of moral management, it is the constant endeavor of those who have the care of the patients to inspire them with self-respect, to call into exercise as much self-control as possible, and to grant them all the liberty consistent with their own safety and that of others.
+
+                    Our male patients, besides being employed in the garden, on the farm, and about the premises, make frequent excursions on foot or with a team for the purpose of fishing, procuring fruit, nuts, or to see some natural curiosity. This engagement not only contributes to their physical health but also aids in calming their mental turmoil. Our female patients are constantly and usefully employed, according to their former habits and tastes. They engage in sewing, weaving, and other forms of work that align with their past experiences, ensuring continuity and purpose.
+
+                    From the opening of this asylum, 239 patients have been admitted, and only 11 have died, amounting to less than five percent. Of the remaining patients, 182 have been discharged as restored, and 33 as improved, which we believe compares favorably with any institution in the country.
+
+                    Religious exercises have been continued as heretofore, and their influence in calming and soothing the excited, and encouraging the despondent, is very beneficial. Christian principles, along with other restorative methods, play a key role in aiding recovery.
+                </text>
+            </result>
+            <result>
+                <id>https://www.loc.gov/resource/sn83045462/1908-08-02/ed-1/?sp=40&amp;q=asylum+lunatic</id>
+                <rel>1</rel>
+                <text>
+                    An inmate of a Wisconsin lunatic asylum escaped a few years ago and went to Racine, where he presented himself before a civil service examining board for a position requiring exceptional qualifications. He came out of the examination at the top of the list and was duly certified for the appointment before his identity was discovered. Then he was returned to the asylum.
+
+                    Dr. Bjornstrom, superintendent of a lunatic asylum at Stockholm, introduced a printing press and some type into the establishment for the benefit of an insane compositor. The other patients became interested in printing, and the result was the publication of the doctor's book on 'Disease of the Mind,' set up, printed, and bound by the patients.
+
+                    Now and then after Dean Swift's splendid intellect had fallen into ruin, there were gleams of its original brightness. Taking a walk one day with his physician, he noticed a new building he had not seen before and asked what it was. Upon hearing it was a magazine for arms and powder, he remarked: 'When nothing's left that's worth defense, we build a magazine.'
+                </text>
+            </result>
+            <result>
+                <id>https://www.loc.gov/resource/sn96088376/1908-01-31/ed-1/?sp=2&amp;q=asylum+ASYLUM+Asylum+Death+death+DEATHS</id>
+                <rel>1</rel>
+                <text>
+                    By consulting the asylum authorities, I found the death rate from tuberculosis for several years past to be in the neighborhood of 10% of deaths from all causes. Over a year ago, a plan for segregating these cases was adopted, with the result that during the year just finished, this percentage has been reduced to 6%, which is, of course, much higher than it should be.
+
+                    Within my recollection, several attendants have contracted tuberculosis and died. Whether or not these deaths were due to improper conditions at the asylum, it is impossible to say, as the same persons might have contracted it had they resided elsewhere.
+
+                    The asylum is always crowded, and considering present conditions, the work along this line during the past year deserves commendation. Much remains to be done, however, before the medical staff is properly equipped to prevent the ravages of this terrible malady.
+
+                    I found no laboratory or pathological apparatus of any kind, but the superintendent, Dr. Steiner, told me that a practical working outfit had been ordered and would be installed and put into use at the earliest possible date.
+
+                    The ideal way to handle the tuberculosis cases at the asylum would be in cottages apart from the main building; this would involve a considerable expenditure of money both for initial cost and maintenance. A much less expensive and efficient plan would be to construct open-air pavilions adjoining the infirmary.
+                </text>
+            </result>
+            <result>
+                <id>https://www.loc.gov/resource/sn97065122/1920-07-24/ed-1/?sp=1&amp;q=Asylum+death</id>
+                <rel>1</rel>
+                <text>
+                    One inmate of the Nashville Insane Asylum has died, and several others are in critical condition following what is being described as a case of food poisoning. Early reports suggest that the poisoning occurred during a meal served in the communal dining hall, and it is feared that contaminated food may have been the cause.
+
+                    The victims include both men and women housed in separate wards, and at least four are said to be in a precarious state. Nurses and attendants scrambled to provide emergency care, but the delay in identifying the source of the poisoning may have worsened their condition.
+
+                    Preliminary investigations have pointed to spoiled meat that was improperly stored in the kitchen facilities. Witnesses have alleged that complaints about food quality were previously dismissed by management, raising questions about oversight and accountability within the asylum.
+
+                    Relatives of the affected inmates have expressed outrage, calling the incident a tragic reflection of broader negligence at the institution. One family member stated, 'We trusted them to care for our loved ones, and now we are mourning a preventable death.'
+
+                    The superintendent of the asylum has announced an internal review to determine the exact cause of the tragedy and prevent future occurrences. Measures being considered include mandatory training for kitchen staff, increased inspections of food storage facilities, and the recruitment of additional staff to ensure compliance with safety regulations.
+
+                    This incident has reignited debates about the quality of care in state-run institutions, with advocacy groups urging for stricter government oversight and increased funding to address chronic issues of understaffing and resource shortages.
+                </text>
+            </result>
+            <result>
+                <id>https://guides.loc.gov/moldovan-collection-at-the-library-of-congress/about-moldova</id>
+                <rel>0</rel>
+            </result>
+
+            <result>
+                <id>https://guides.loc.gov/french-collections/books-france</id>
+                <rel>0</rel>
+            </result>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn83030272/1887-10-14/ed-1/seq-1/#date1=1789&amp;sort=date&amp;date2=1924&amp;searchType=advanced&amp;language=&amp;sequence=0&amp;index=2&amp;words=Bly+Nellie&amp;proxdistance=5&amp;state=New+York&amp;rows=20&amp;ortext=&amp;proxtext=&amp;phrasetext=Nellie+Bly&amp;andtext=&amp;dateFilterType=yearRange&amp;page=2</id>
+                <rel>1</rel>
+                <text>
+                    Nellie Bly, a young journalist, feigned insanity to gain admission to the Women's Lunatic Asylum on Blackwell's Island. Her account revealed the horrifying reality faced by the inmates, including the cold and indifferent treatment from staff and the deplorable living conditions.
+
+                    Bly described the patients as being left for hours without attention, forced to sit on hard benches without backs or cushions, and provided with inedible food. She noted that some patients were not insane at all but were institutionalized due to poverty or being deemed socially inconvenient.
+
+                    She observed attendants berating and physically abusing patients, throwing cold water on them during forced baths, and tightly binding them in restrictive garments if they disobeyed. Bly's observations highlighted systemic flaws, including understaffing and the lack of training among employees.
+
+                    Following the publication of Bly's report in *The New York World*, public outrage erupted, leading to a grand jury investigation. The inquiry recommended increased funding for asylum maintenance, better training for attendants, and stricter oversight of institutional conditions.
+
+                    Bly remarked on the despair she saw among the inmates, many of whom appeared to have given up hope of ever leaving. She also described the lack of any meaningful therapy or rehabilitation programs, noting that patients were left to languish in isolation.
+                </text>
+            </result>
+            <result>
+                <id>https://guides.loc.gov/latinx-civil-rights/cuban-adjustment-act</id>
+                <rel>0</rel>
+            </result>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn84026965/1887-10-20/ed-1/seq-1/#date1=1789&amp;index=8&amp;date2=1924&amp;searchType=advanced&amp;language=&amp;sequence=1&amp;words=Blackwell+bly+Island+Nellie&amp;proxdistance=5&amp;rows=20&amp;ortext=&amp;proxtext=&amp;phrasetext=Blackwells+Island&amp;andtext=Nellie+Bly&amp;dateFilterType=yearRange&amp;page=1</id>
+                <rel>1</rel>
+                <text>
+                    Nellie Bly, the courageous journalist, entered the Women's Lunatic Asylum on Blackwell's Island under the pretense of insanity. Her mission was to document the experiences of inmates and expose the conditions within one of the most notorious mental health institutions of its time. Bly’s stay revealed a shocking reality, sparking national attention.
+
+                    Bly recounted scenes of patients left to freeze in poorly heated rooms, fed rotten or barely edible food, and subjected to cruel punishments. One inmate, she reported, was tied to a chair for hours as a form of discipline. Others were forced into icy baths, which she described as torture.
+
+                    Patients who complained or resisted were quickly silenced, either through physical abuse or threats. Bly observed that many inmates were not mentally ill but were institutionalized for reasons such as poverty, language barriers, or simply being deemed an inconvenience.
+
+                    The asylum was overcrowded, with far too few staff members to care for the large population of inmates. Bly described attendants as indifferent and untrained, offering no form of therapeutic intervention to help the patients.
+
+                    The publication of Bly's findings in *The New York World* led to widespread public outrage. A grand jury investigation into the asylum was launched, resulting in recommendations for increased funding, better oversight, and improved living conditions for patients.
+
+                    Bly wrote, "What, excepting torture, would produce insanity quicker than this treatment? Here is a class of women sent to be cured, and I would like the expert physicians who are condemning me for my action, which has proven their ability to take proper care of these poor unfortunates, to take a perfectly sane and healthy woman, shut her up and make her sit from 6 a.m. until 8 p.m. on straight-back benches, do not allow her to talk or move during these hours, give her bad food and harsh treatment, and see how long it will take to make her insane."
+                </text>
+            </result>
+        </results>
+    </topic>
 </topics>
