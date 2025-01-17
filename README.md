@@ -60,3 +60,4 @@ Each `<topic>` tag should contain an `<id>`, with the URL of the Research Guide,
 To find the text of a newspaper page, click on the &ldquo;Image w/Text&rdquo; link just above the image.  For example, [here is the text of the first result for the Bicycle Craze topic](https://www.loc.gov/resource/sn85058130/1889-02-24/ed-1/?sp=6&q=bicycles+safety&st=text).  (Note that you could also construct this link by appending `&st=text` to the main URL for the newspaper page.) Select the text of the relevant passage and copy it into the `<text>` tag for the result.  Your XML editor may complain about ampersands in the URL. You can replace them with `&amp;` if need be.
 
 Once you have added all this information for three topics to the `topics.xml` file, check in your changes and push them to GitHub.
+Submission done by Daniel Jebakumar Immanuel
